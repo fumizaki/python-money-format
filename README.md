@@ -1,1 +1,1 @@
-# money-format
+# python-money-format
